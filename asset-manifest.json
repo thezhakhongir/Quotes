@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//thezhakhongir.github.io/Quotes/static/css/main.a7592963.css",
+    "main.js": "/https//thezhakhongir.github.io/Quotes/static/js/main.e579e72a.js",
+    "index.html": "/https//thezhakhongir.github.io/Quotes/index.html",
+    "main.a7592963.css.map": "/https//thezhakhongir.github.io/Quotes/static/css/main.a7592963.css.map",
+    "main.e579e72a.js.map": "/https//thezhakhongir.github.io/Quotes/static/js/main.e579e72a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7592963.css",
+    "static/js/main.e579e72a.js"
+  ]
+}
